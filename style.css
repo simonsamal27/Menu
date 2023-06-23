@@ -1,0 +1,72 @@
+ body {
+    background-color: #ffd0c8;
+}
+h1, h2, h3{
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+
+
+.first-div {
+   
+    display: inline-block;
+    padding: 100px 10px;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    
+}
+.second-div {
+   
+    padding: 100px 10px;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    float: right;
+    
+}
+.third-div {
+
+   
+    padding: 100px 10px;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+   
+   
+    
+    
+}
+.fourth-div {
+
+    top: 50%;
+    left: 50%;
+    width: 30em;
+    height: 18em;
+    transform: translate(-50%, -50%);
+   position: fixed;
+   width: 250px;
+   height: 200px;
+ display: inline-block;
+    
+}
+.sushi-price > th {
+    color: white;
+
+}
+table {
+    width: 100%;
+  }
+ 
+ 
+   
+  
+    
+   
+  
+   
+    
+    
+}
